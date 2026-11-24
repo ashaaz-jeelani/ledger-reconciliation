@@ -1,0 +1,52 @@
+entity,month,account_type,account_name,amount
+E01,2026-04,"Direct expense",Marketing,5183968.56
+E01,2026-04,"Direct expense","Power and fuel",5079902.52
+E01,2026-04,"Direct expense",Purchases,4475552.01
+E01,2026-04,"Direct expense","Repairs and maintenance",5949890.35
+E01,2026-04,"Direct expense","Salaries and wages",5407533.28
+E01,2026-04,Revenue,"Sales - products",15885383.56
+E01,2026-04,Revenue,"Sales - services",17985715.94
+E01,2026-05,"Direct expense",Marketing,5287166.12
+E01,2026-05,"Direct expense","Power and fuel",6002701.23
+E01,2026-05,"Direct expense",Purchases,5461994.07
+E01,2026-05,"Direct expense","Repairs and maintenance",5658777.3
+E01,2026-05,"Direct expense","Salaries and wages",5762638.77
+E01,2026-05,Revenue,"Sales - products",16779379.01
+E01,2026-05,Revenue,"Sales - services",15682918.9
+E01,2026-06,"Direct expense",Marketing,5636222.36
+E01,2026-06,"Direct expense","Power and fuel",4756303.37
+E01,2026-06,"Direct expense",Purchases,4461804.2
+E01,2026-06,"Direct expense","Repairs and maintenance",4152242.72
+E01,2026-06,"Direct expense","Salaries and wages",4538616.49
+E01,2026-06,Revenue,"Sales - products",16444356.06
+E01,2026-06,Revenue,"Sales - services",16785914.61
+E02,2026-04,"Direct expense",Marketing,3248874.12
+E02,2026-04,"Direct expense","Power and fuel",2586370.47
+E02,2026-04,"Direct expense",Purchases,3741384.64
+E02,2026-04,"Direct expense","Repairs and maintenance",3034461.15
+E02,2026-04,"Direct expense","Salaries and wages",3629987.83
+E02,2026-04,Revenue,"Sales - products",12405939.14
+E02,2026-04,Revenue,"Sales - services",11882813.47
+E02,2026-05,"Direct expense",Marketing,3350693.37
+E02,2026-05,"Direct expense","Power and fuel",3972638.68
+E02,2026-05,"Direct expense",Purchases,3433040.82
+E02,2026-05,"Direct expense","Repairs and maintenance",2987626.02
+E02,2026-05,"Direct expense","Salaries and wages",4006240.01
+E02,2026-05,Revenue,"Sales - products",13586827.69
+E02,2026-05,Revenue,"Sales - services",13339028.2
+E02,2026-06,"Direct expense",Marketing,3398018.67
+E02,2026-06,"Direct expense","Power and fuel",3854025.96
+E02,2026-06,"Direct expense",Purchases,3965703.51
+E02,2026-06,"Direct expense","Repairs and maintenance",2955975.64
+E02,2026-06,"Direct expense","Salaries and wages",3990671.23
+E02,2026-06,Revenue,"Sales - products",12764570.66
+E02,2026-06,Revenue,"Sales - services",11710660.84
+E03,2026-04,"Shared cost","Group HR and admin",2099780.24
+E03,2026-04,"Shared cost","Group IT",2291302.31
+E03,2026-04,"Shared cost","Head office rent",2350029.05
+E03,2026-05,"Shared cost","Group HR and admin",2470928.73
+E03,2026-05,"Shared cost","Group IT",2563473.29
+E03,2026-05,"Shared cost","Head office rent",2431893.42
+E03,2026-06,"Shared cost","Group HR and admin",2162844.37
+E03,2026-06,"Shared cost","Group IT",2210009.39
+E03,2026-06,"Shared cost","Head office rent",1694066.13

@@ -1,0 +1,11 @@
+legacy_account,gl_account,account_name,account_type
+L100,4000,Sales - products,Revenue
+L110,4100,Sales - services,Revenue
+L200,5000,Purchases,Direct expense
+L210,5100,Salaries and wages,Direct expense
+L220,5200,Power and fuel,Direct expense
+L230,5300,Repairs and maintenance,Direct expense
+L240,5400,Marketing,Direct expense
+L300,6000,Group IT,Shared cost
+L310,6100,Group HR and admin,Shared cost
+L320,6200,Head office rent,Shared cost

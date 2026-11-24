@@ -1,0 +1,8 @@
+status,lines,value_of_difference
+Matched,5873,0.0
+"Timing difference",40,0.0
+"Amount mismatch",30,71700.55
+"Missing in ERP",25,1240680.4
+"Account mismapped",20,0.0
+"Missing in legacy",15,459281.2
+"Duplicate in ERP",12,691596.16

@@ -1,0 +1,143 @@
+ref,expected_status
+V002676,Missing in ERP
+V004058,Missing in ERP
+V004019,Missing in ERP
+V005539,Missing in ERP
+V002510,Missing in ERP
+V004880,Missing in ERP
+V001704,Missing in ERP
+V002035,Missing in ERP
+V002490,Missing in ERP
+V004823,Missing in ERP
+V002645,Missing in ERP
+V002342,Missing in ERP
+V003378,Missing in ERP
+V000674,Missing in ERP
+V004820,Missing in ERP
+V001095,Missing in ERP
+V002057,Missing in ERP
+V002136,Missing in ERP
+V000461,Missing in ERP
+V002647,Missing in ERP
+V003931,Missing in ERP
+V001672,Missing in ERP
+V003210,Missing in ERP
+V002074,Missing in ERP
+V000928,Missing in ERP
+V003431,Amount mismatch
+V003254,Amount mismatch
+V001971,Amount mismatch
+V001006,Amount mismatch
+V004677,Amount mismatch
+V005304,Amount mismatch
+V003652,Amount mismatch
+V002749,Amount mismatch
+V003346,Amount mismatch
+V003301,Amount mismatch
+V003140,Amount mismatch
+V004094,Amount mismatch
+V000346,Amount mismatch
+V003147,Amount mismatch
+V001887,Amount mismatch
+V000123,Amount mismatch
+V003890,Amount mismatch
+V004416,Amount mismatch
+V004422,Amount mismatch
+V000802,Amount mismatch
+V003067,Amount mismatch
+V001180,Amount mismatch
+V000475,Amount mismatch
+V002433,Amount mismatch
+V000508,Amount mismatch
+V002739,Amount mismatch
+V002523,Amount mismatch
+V001967,Amount mismatch
+V000012,Amount mismatch
+V003563,Amount mismatch
+V002644,Timing difference
+V001129,Timing difference
+V000064,Timing difference
+V005488,Timing difference
+V000258,Timing difference
+V000734,Timing difference
+V002944,Timing difference
+V004344,Timing difference
+V004632,Timing difference
+V001707,Timing difference
+V001342,Timing difference
+V003787,Timing difference
+V002500,Timing difference
+V002147,Timing difference
+V005199,Timing difference
+V003698,Timing difference
+V003598,Timing difference
+V002474,Timing difference
+V000757,Timing difference
+V001174,Timing difference
+V004373,Timing difference
+V001740,Timing difference
+V003798,Timing difference
+V000213,Timing difference
+V004033,Timing difference
+V002503,Timing difference
+V004726,Timing difference
+V005648,Timing difference
+V001365,Timing difference
+V004073,Timing difference
+V002478,Timing difference
+V004993,Timing difference
+V003065,Timing difference
+V000738,Timing difference
+V003106,Timing difference
+V003524,Timing difference
+V003265,Timing difference
+V001678,Timing difference
+V002452,Timing difference
+V001266,Timing difference
+V004202,Duplicate in ERP
+V001203,Duplicate in ERP
+V004734,Duplicate in ERP
+V002674,Duplicate in ERP
+V004048,Duplicate in ERP
+V001901,Duplicate in ERP
+V002173,Duplicate in ERP
+V003573,Duplicate in ERP
+V002164,Duplicate in ERP
+V000848,Duplicate in ERP
+V000501,Duplicate in ERP
+V001243,Duplicate in ERP
+V002877,Account mismapped
+V004949,Account mismapped
+V005956,Account mismapped
+V004800,Account mismapped
+V005799,Account mismapped
+V001401,Account mismapped
+V005641,Account mismapped
+V004835,Account mismapped
+V004491,Account mismapped
+V001523,Account mismapped
+V002264,Account mismapped
+V003739,Account mismapped
+V000858,Account mismapped
+V002494,Account mismapped
+V003022,Account mismapped
+V002287,Account mismapped
+V003977,Account mismapped
+V003869,Account mismapped
+V003135,Account mismapped
+V003415,Account mismapped
+V900001,Missing in legacy
+V900002,Missing in legacy
+V900003,Missing in legacy
+V900004,Missing in legacy
+V900005,Missing in legacy
+V900006,Missing in legacy
+V900007,Missing in legacy
+V900008,Missing in legacy
+V900009,Missing in legacy
+V900010,Missing in legacy
+V900011,Missing in legacy
+V900012,Missing in legacy
+V900013,Missing in legacy
+V900014,Missing in legacy
+V900015,Missing in legacy
